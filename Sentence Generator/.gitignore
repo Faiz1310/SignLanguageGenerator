@@ -1,0 +1,17 @@
+# Python temporary files
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# AI Model file
+# IMPORTANT: We'll upload the *code*, but
+# the README will tell users to train the model themselves.
+*.pkl
