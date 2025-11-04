@@ -31,7 +31,7 @@ The project is built in three phases:
 
 1.  **Clone the repository:**
     ```
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+    git clone (https://github.com/Faiz1310/SignLanguageGenerator.git)
     ```
 2.  **Install dependencies:**
     ```
