@@ -1,4 +1,4 @@
-# Real-Time Sign Language Recognition
+# Real-Time Sign Language Recognition and Generation
 
 This is a Python project that uses OpenCV and MediaPipe to detect hand gestures in real-time from a webcam. It uses a custom-trained Machine Learning model (a Random Forest) to classify signs and build sentences.
 
